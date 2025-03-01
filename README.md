@@ -32,10 +32,6 @@ I am a backend developer specializing in building high-performance and scalable 
       <br>Redis
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=websocket" width="43" height="43" alt="WebSocket" />
-      <br>WebSocket
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" />
       <br>Docker
     </td>
@@ -72,11 +68,6 @@ I am a backend developer specializing in building high-performance and scalable 
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
       <br>SQLite
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=rest" width="43" height="43" alt="REST" />
-      <br>REST
-    </td>
   </tr>
 </table>
 </p>
@@ -94,19 +85,19 @@ I am a backend developer specializing in building high-performance and scalable 
 
 ## Projects
 
-### 1. [Task Manager](https://github.com/kassian006/task-manager)
-<div style="animation: fadeIn 2s ease-out;">
-  Веб-приложение для управления задачами, созданное с использованием **Django**, **PostgreSQL** и **Docker**.
+### 1. [Progress](https://github.com/kassian006/Progress)
+<div>
+  BusinessPro – это веб-приложение для управления бизнес-процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно предоставляет инструменты для отслеживания финансовых операций, а также для анализа и оптимизации бизнес-процессов, что помогает компаниям повысить эффективность и прибыль. Я интегрировал сервисы AWS для масштабируемых развертываний и оптимизировал базу данных с использованием индексирования PostgreSQL для повышения производительности.
 </div>
 
-### 2. [E-commerce API](https://github.com/kassian006/ecommerce-api)
-<div style="animation: fadeIn 2s ease-out 0.5s;">
-  RESTful API для онлайн-магазина, разработанное на **FastAPI**, **Redis** и **JWT** для аутентификации.
+### 2. [GlovoProject](https://github.com/SalahidinAI/GlovoProject)
+<div>
+  GlovoProject – это веб-приложение для управления сервисом доставки, разработанное с использованием Django, PostgreSQL и Docker. Оно позволяет пользователям заказывать еду, товары и другие услуги с доставкой, а курьерам — эффективно управлять своими заказами.
 </div>
 
-### 3. [Image Processing Service](https://github.com/kassian006/image-processing)
-<div style="animation: fadeIn 2s ease-out 1s;">
-  Микросервис для обработки изображений с использованием **Celery**, **RabbitMQ** и **Docker**.
+### 3. [HospitalProject](https://github.com/SalahidinAI/HospitalProject)
+<div>
+  HospitalProject – это веб-приложение для управления больничными процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно позволяет пользователям записываться на приём к врачам, просматривать медицинские данные и результаты анализов, а медицинскому персоналу — эффективно управлять пациентами и расписанием.
 </div>
 
 
